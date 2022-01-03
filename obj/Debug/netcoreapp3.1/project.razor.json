@@ -14427,6 +14427,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
@@ -14439,6 +14444,16 @@
     {
       "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Livro\\Listagem.cshtml",
       "TargetPath": "Views\\Livro\\Listagem.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Usuario\\cadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuario\\cadastroRealizado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14462,6 +14477,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Usuario\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Shared\\_CookieConsentPartial.cshtml",
       "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
       "FileKind": "mvc"
@@ -14474,6 +14494,16 @@
     {
       "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Emprestimo\\Cadastro.cshtml",
       "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Usuario\\RegistrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\UC07\\ATIVIDADE 01\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     }
   ],
